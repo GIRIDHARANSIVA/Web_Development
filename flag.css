@@ -1,0 +1,70 @@
+.flag{
+	width: 550px;
+	height: 350px;
+	border:15px solid brown;
+	background: green;
+}
+.yellow{
+	position: absolute;
+	transform: translate(0px,13%);
+	width: 0;
+	height: 0;
+	border-top: 135px solid transparent;
+	border-left: 185px solid #ff980f;
+	border-bottom: 135px sloid transparent;
+	border-bottom: 135px solid transparent;
+	border-left: 200px solid #ff980f;
+	border-top: 135px sloid transparent;
+	
+}
+.black{
+	position: absolute;
+	transform: translate(0px,32%);
+	width: 0;
+	height: 0;
+	border-top: 105px solid transparent;
+	border-left: 170px solid black;
+	border-bottom: 105px sloid transparent;
+	border-bottom: 105px solid transparent;
+	border-left: 170px solid black;
+	border-top: 105px sloid transparent;
+	
+}
+
+
+.white1{
+	position: absolute;
+	transform: translate(50px,200px);
+	border-bottom: 150px solid white;
+	border-left: 220px solid transparent;
+	border-right: -300px solid transparent;
+	height: 0;
+	width:280px;
+}
+.white2{
+	position: absolute;
+	transform: translate(50px,0px);
+	border-top: 150px solid white;
+	border-left: 220px solid transparent;
+	border-right: -300px solid transparent;
+	height: 0;
+	width:280px;
+}
+.red{
+	position: absolute;
+	transform: translate(100px,0px);
+	border-top: 125px solid red;
+	border-left: 200px solid transparent;
+	border-right: -280px solid transparent;
+	height: 0;
+	width:250px;
+}
+.blue{
+	position: absolute;
+	transform: translate(100px,230px);
+	border-bottom: 120px solid blue;
+	border-left: 200px solid transparent;
+	border-right: -280px solid transparent;
+	height: 0;
+	width:250px;
+}
